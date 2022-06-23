@@ -1,0 +1,15 @@
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.deps.json
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.dll
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/bin/Debug/net5.0/ref/Triangle.dll
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.pdb
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.csproj.AssemblyReference.cache
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.AssemblyInfoInputs.cache
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.AssemblyInfo.cs
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.csproj.CoreCompileInputs.cache
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.dll
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/obj/Debug/net5.0/ref/Triangle.dll
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.pdb
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.runtimeconfig.json
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.runtimeconfig.dev.json
+/Users/adriennematosich/Desktop/epicodus/TriangleTracker/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.genruntimeconfig.cache
